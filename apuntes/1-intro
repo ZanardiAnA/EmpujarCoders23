@@ -1,0 +1,4 @@
+Commit: Guarda los cambios de manera local.
+Fetch: Recoge actualizaciones del repositorio remoto.
+Pull: Recibe actualizaciones del repositorio remoto y aplica los cambios de manera local.
+Push: Envia tus cambios al servidor remoto.
